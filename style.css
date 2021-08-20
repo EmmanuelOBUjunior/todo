@@ -4,9 +4,9 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url('/todo.jfif');
-    background-repeat: unset;
-    /* background: linear-gradient(125deg, #7465f6, #defd89); */
+    /* background-image: url('/todo.jfif');
+    background-repeat: initial; */
+    background: linear-gradient(125deg, #7465f6, #defd89);
     color: black;
     font-family: "Poppins", sans-serif;
     min-height: 100vh;
